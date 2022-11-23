@@ -1,2 +1,23 @@
+<<<<<<< HEAD
 #!/bin/bash
 ALX
+=======
+
+
+#!/bin/bash
+ALX
+root@e17d9b38e14f:~/alx-pre_course/0x01-git/bash# cat > school
+#!/bin/bash
+schoolroot@e17d9b38e14f:~/alx-pre_course/0x01-git/bash# ls
+
+root@e17d9b38e14f:~/alx-pre_course/0x01-git/bash# cat alx
+#!/bin/bash
+ALXroot@e17d9b38e14f:~/alx-pre_course/0x01-git/bash#
+
+
+
+
+
+
+s
+>>>>>>> acbe107ed41e52dc1f318d726bd798af4227413c
